@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Week3_Chatchawit_022</string>
+    <string name="page1">หน้าแรก</string>
+    <string name="page2">หน้าที่สอง</string>
+    <string name="page3">หน้าที่สาม</string>
+
+    <string name="tv_name">ชื่อ</string>
+    <string name="tv_lastname">สกุล</string>
+    <string name="tv_nickname">ชื่อเล่น</string>
+    <string name="tv_date">วันเกิด</string>
+    <string name="tv_number">รหัส</string>
+
+    <string name="btn_upload">บันทึกข้อมูล</string>
+    <string name="btn_clear">ล้างข้อมูล</string>
+</resources>
